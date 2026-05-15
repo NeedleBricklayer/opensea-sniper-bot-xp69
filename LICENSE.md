@@ -1,4 +1,4 @@
-# 
+# new opensea sniper bot | gas-fee-estimation + volume-analysis is the best opensea sniper bot, featuring gas-fee-estimation and volume-analysis. Fast, smart, and optimized for NFT
 
 
 
